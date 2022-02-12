@@ -199,7 +199,8 @@ const sr = ScrollReveal({
 });
 
 sr.reveal(`.home__title, .home__subtitle, .home__img, .home__social,
-            .about__data, .about__img,
+            .about__data, .about__img, .skills__content,
+            .qualification__tabs, .qualification__sections,
             .services__content, .portfolio__title,
             .project__data, .project__img, 
             .contact__information,

@@ -6,7 +6,8 @@
 
 Responsive PMB Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.
 
-📁 Assets
+## 📁 Assets
+
 [Icons:] (https://iconscout.com/unicons)
 [Fonts:] (https://fonts.google.com/)
 [GitHub:] (https://github.com/bedimcode)
@@ -18,4 +19,4 @@ Responsive PMB Website Using Html, Css and JavaScript, With a beautiful user int
 
 <!-- Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode) -->
 
-![Preview](/preview.png)
+![Preview](/prev.png)

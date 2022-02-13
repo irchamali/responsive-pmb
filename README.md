@@ -8,14 +8,14 @@ Responsive PMB Website Using Html, Css and JavaScript, With a beautiful user int
 
 ## 📁 Assets
 
-[Icons:] (https://iconscout.com/unicons)
-[Fonts:] (https://fonts.google.com/)
-[GitHub:] (https://github.com/bedimcode)
-[Swiper:] (https://swiperjs.com/)
-[RemoveBG:] (https://www.remove.bg/)
-[HSLcolor:] (https://www.w3schools.com/colors/colors_hsl.asp)
-[BlobGenerator:] (https://www.blobmaker.app/)
-[SmoothScroll:] (https://scrollrevealjs.org/guide/hello-world.html]
+[Icons:](https://iconscout.com/unicons)
+[Fonts:](https://fonts.google.com/)
+[GitHub:](https://github.com/bedimcode)
+[Swiper:](https://swiperjs.com/)
+[RemoveBG:](https://www.remove.bg/)
+[HSLcolor:](https://www.w3schools.com/colors/colors_hsl.asp)
+[BlobGenerator:](https://www.blobmaker.app/)
+[SmoothScroll:](https://scrollrevealjs.org/guide/hello-world.html)
 
 <!-- Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode) -->
 

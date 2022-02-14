@@ -1288,3 +1288,14 @@ img{
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+/* .song {
+	display: flex;
+	align-items: center;
+	font-size: 1.1em;
+	font-family: "Roboto";
+}
+.pause {
+	margin-left: 0.5em;
+	cursor:pointer;
+} */

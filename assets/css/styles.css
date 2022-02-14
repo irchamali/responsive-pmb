@@ -723,6 +723,13 @@ img{
     margin-right: var(--mb-0-25);
 }
 
+.services__modal-service a{
+    color: var(--text-color)
+}
+.services__modal-service a:hover{
+    color: var(--first-color);
+}
+
 /* Active Modal */
 .active-modal{
     opacity: 1;
